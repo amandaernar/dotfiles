@@ -1,0 +1,12 @@
+set default-bg "#1E1E2E"  
+set statusbar-bg "#313244" 
+set statusbar-fg "#CDD6F4" 
+set inputbar-bg "#313244" 
+set inputbar-fg "#CDD6F4" 
+set completion-bg "#313244" 
+set completion-fg "#CDD6F4" 
+set completion-highlight-bg "#45475A" 
+set completion-highlight-fg "#CDD6F4"
+set recolor true 
+set recolor-lightcolor "#1E1E2E"
+set recolor-darkcolor "#CDD6F4"

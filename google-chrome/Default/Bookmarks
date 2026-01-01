@@ -1,0 +1,769 @@
+{
+   "checksum": "1ffab6c5733c2e99bbca979296806bba",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13405415201973933",
+            "date_last_used": "0",
+            "guid": "a8511c9e-1a6d-4152-afe2-4b2284084be6",
+            "id": "66",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(41) Virus Self-Assembly Demonstration by Marvin L. Hackert - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=sHnX8GylPAg"
+         }, {
+            "date_added": "13405415211734130",
+            "date_last_used": "0",
+            "guid": "2ed8d13c-366f-4c6a-9e42-8eefacc49e0d",
+            "id": "67",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "advancedops.sde.idaho.gov/FundingRequest/CourseFundingRequest",
+            "type": "url",
+            "url": "https://advancedops.sde.idaho.gov/FundingRequest/CourseFundingRequest"
+         }, {
+            "date_added": "13406239989674832",
+            "date_last_used": "13407986606904220",
+            "guid": "c86ff4c5-4eef-42b0-a759-938969a23db8",
+            "id": "68",
+            "name": "In progress Required Caltech Essays",
+            "type": "url",
+            "url": "https://apply.commonapp.org/mycolleges/48/2907/14058"
+         }, {
+            "date_added": "13405415182946504",
+            "date_last_used": "13406616419445916",
+            "guid": "0061eb6b-79e2-408f-aa2d-55a680b4f2c1",
+            "id": "69",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "My Colleges | Common App",
+            "type": "url",
+            "url": "https://apply.commonapp.org/mycolleges/48/2907/14058"
+         }, {
+            "date_added": "13398164625233214",
+            "date_last_used": "13411689246322315",
+            "guid": "c719d831-3fe5-4742-a3ef-596b9b043434",
+            "id": "70",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "nvimdev/dashboard-nvim: vim dashboard",
+            "type": "url",
+            "url": "https://github.com/nvimdev/dashboard-nvim"
+         }, {
+            "date_added": "13401432611410814",
+            "date_last_used": "13407986619223349",
+            "guid": "2bbba3a1-1c04-4c77-b448-5ca29f787325",
+            "id": "71",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"
+         }, {
+            "date_added": "13401432596405189",
+            "date_last_used": "13411725377796321",
+            "guid": "bca21491-eae7-4449-9662-aa687b85237f",
+            "id": "72",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Volunteer Connection - Login Here",
+            "type": "url",
+            "url": "https://volunteerconnection.redcross.org/?nd=user_volunteer_opportunity&pre_filter=1"
+         } ],
+         "date_added": "13411695842471509",
+         "date_last_used": "0",
+         "date_modified": "13406239989674832",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13404618425202006",
+            "date_last_used": "0",
+            "guid": "6b2a6a0c-bced-4c2b-b175-fb4f1f54f432",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[BSPWM] Retro groove for them modern eyes~ : r/unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/kdstez/bspwm_retro_groove_for_them_modern_eyes/"
+         }, {
+            "children": [ {
+               "date_added": "13404618720325972",
+               "date_last_used": "0",
+               "guid": "0f0d867e-7ac7-4657-8190-556c747a3996",
+               "id": "7",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub - polybar/polybar: A fast and easy-to-use status bar",
+               "type": "url",
+               "url": "https://github.com/polybar/polybar"
+            }, {
+               "date_added": "13404619124893015",
+               "date_last_used": "0",
+               "guid": "10a6ecc4-be19-479a-b431-b7bd51356600",
+               "id": "8",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub - baskerville/bspwm: A tiling window manager based on binary space partitioning",
+               "type": "url",
+               "url": "https://github.com/baskerville/bspwm"
+            }, {
+               "date_added": "13404634029477476",
+               "date_last_used": "0",
+               "guid": "34981545-5e0a-4d97-b204-6fe98b97b86b",
+               "id": "9",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Full Icon Themes - Gnome-look.org",
+               "type": "url",
+               "url": "https://www.gnome-look.org/browse?cat=132&ord=latest"
+            } ],
+            "date_added": "13404618751725089",
+            "date_last_used": "0",
+            "date_modified": "13404634029477476",
+            "guid": "05cc863b-48b3-4543-ab4e-7aea9466386a",
+            "id": "6",
+            "name": "Environment",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13408874330014194",
+               "date_last_used": "0",
+               "guid": "9bcafb83-96df-485b-8a83-f44bb14c055a",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "A-line V Neck Spaghetti Straps Sweep Train Charmeuse Prom Dress With Pockets - Prom Dresses - Stacees",
+               "type": "url",
+               "url": "https://www.stacees.com/products/a-line-v-neck-spaghetti-straps-long-floor-length-charmeuse-prom-dress-S10236345P?color=Dark-Green#porductsReviewsSort"
+            }, {
+               "date_added": "13410778517275965",
+               "date_last_used": "0",
+               "guid": "e4bfed19-2e45-4f70-8d38-fc1b0d5f2209",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Simple Designs LT2013-PNK Mini Basic Sand Nickel Table Lamp with Fabric Shade, Pink - Amazon.com",
+               "type": "url",
+               "url": "https://www.amazon.com/Simple-Designs-Home-LT2013-PNK-Nickel/dp/B01M4NPL9Z/ref=sr_1_12?crid=3MXSBKBJT8C84&dib=eyJ2IjoiMSJ9.6ccA5gZA52vEtD_jF5xNapmtpjbht0PsvleFWoGX0mRxUMC7vr6l2Z2JGX8-1JEKEP-wMxajSajx3G5NSY9BEwcjb8bG5uxwallYKwL4Knf6S0lkqcuYFhi3Fn6gXdV-r6doIh10-GUBK8NVelHGj6LowvKEVg8cw3m2uns-Heiz1f-IKUFUbhtPXd0xJ-ZN-uij-H7a1rwYGOduKwATdMR-G9eSa0r8RLOyK27DSEfY0LJAyiD9cRavldEaZh1LbaeKBn2lcC_7yH6UPNUnVh_S7_KJM36OczCMEaTkcC4.SvweXTxPVg8axuPbsqXmVBOjsY8IfllDTM75tzevhHw&dib_tag=se&keywords=pink%2Blamp%2Bfor%2Bgirls%2Broom&qid=1766304809&sprefix=pink%2Blamp%2Caps%2C622&sr=8-12&th=1"
+            }, {
+               "date_added": "13410778963880841",
+               "date_last_used": "0",
+               "guid": "d7cfa6d4-464b-4fe0-bf7a-2d2b028c4b0a",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Amazon.com: Minetom Star String Lights Battery Operated - 17 ft 50 LED Star Fairy String Lights with Timer, Waterproof for Indoor Bedroom Tent Loft Bed Patio Party Wedding Decor, Warm White : Home & Kitchen",
+               "type": "url",
+               "url": "https://www.amazon.com/gp/product/B0CRKCYNZX/ref=ox_sc_act_title_1?smid=A4R7JCZAIZRSD&th=1"
+            }, {
+               "date_added": "13410779025381325",
+               "date_last_used": "0",
+               "guid": "993fe695-9dab-48e8-aa4e-e4c4bcb508ea",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Pink Heart LED String Lights 8.5Ft Valentine's Day Lights with 10 3D Heart Lights Plug in Christmas String Lights for Indoor Outdoor Home Window Wedding Party Valentine's Day Christmas Decorations - Amazon.com",
+               "type": "url",
+               "url": "https://www.amazon.com/gp/product/B0DM5GPFRJ/ref=ewc_pr_img_1?smid=AJCPBRC2CU1FP&th=1"
+            } ],
+            "date_added": "13407229305739586",
+            "date_last_used": "0",
+            "date_modified": "13410779025381325",
+            "guid": "89fc5b66-beb6-56c1-a99b-70635d7df201",
+            "id": "10",
+            "meta_info": {
+               "was_folder_suggested": "false"
+            },
+            "name": "Shopping list",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13405590538219608",
+               "date_last_used": "0",
+               "guid": "b5a96bcc-7a1b-4e75-adff-55965bc30b51",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "MIT",
+               "type": "url",
+               "url": "https://apply.mitadmissions.org/apply/frm?7b4ed04b-4df8-4dfc-b5b7-6f4706417cf6"
+            }, {
+               "date_added": "13405594778714154",
+               "date_last_used": "0",
+               "guid": "b9c880a7-ed6f-4f14-896f-b83769f4f848",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Jobs",
+               "type": "url",
+               "url": "https://apply.mitadmissions.org/apply/frm?85e19b9c-cab2-40d2-9f16-7dd2289564b9"
+            }, {
+               "date_added": "13405594785249648",
+               "date_last_used": "0",
+               "guid": "f16d8550-998d-4491-8aae-18d110289280",
+               "id": "18",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SAT Scores",
+               "type": "url",
+               "url": "https://studentscores.collegeboard.org/scores/summary"
+            }, {
+               "children": [ {
+                  "date_added": "13406706028508795",
+                  "date_last_used": "0",
+                  "guid": "cb531d58-6e90-44d6-a01b-a16b0641220f",
+                  "id": "20",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Application Status",
+                  "type": "url",
+                  "url": "https://apps.admissions.yale.edu/apply/status?button=admCkl"
+               }, {
+                  "date_added": "13409125376198976",
+                  "date_last_used": "0",
+                  "guid": "84aa9b0c-1b1a-4d82-8400-c16c91945bb4",
+                  "id": "21",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Application",
+                  "type": "url",
+                  "url": "https://calstate.cas.myliaison.com/applicant-ux/#/myPrograms/myProgramStatus"
+               }, {
+                  "date_added": "13410243223909568",
+                  "date_last_used": "0",
+                  "guid": "aca5410e-a802-4372-9856-c6f6ecf9c3ff",
+                  "id": "22",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "My Account",
+                  "type": "url",
+                  "url": "https://isu.elluciancrmrecruit.com/Apply/"
+               }, {
+                  "date_added": "13410645895284641",
+                  "date_last_used": "0",
+                  "guid": "80f66084-e47f-4c81-9e00-34ff07c9b647",
+                  "id": "23",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Login",
+                  "type": "url",
+                  "url": "https://apply.berkeley.edu/account/login?r=https%3a%2f%2fapply.berkeley.edu%2fapply%2fstatus&cookie=1"
+               }, {
+                  "date_added": "13410645999690116",
+                  "date_last_used": "0",
+                  "guid": "cedde710-3479-4661-8a4d-e42bc1a7d283",
+                  "id": "24",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Applicant Portal",
+                  "type": "url",
+                  "url": "https://beatriton.ucsd.edu/apply/status"
+               }, {
+                  "date_added": "13410646029487250",
+                  "date_last_used": "0",
+                  "guid": "fad3e682-cc49-456b-8baf-b89b00f26d02",
+                  "id": "25",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "UCLA myApplication Status",
+                  "type": "url",
+                  "url": "https://bruins.admission.ucla.edu/myApplication/Login.aspx?ReturnUrl=%2fmyApplication"
+               } ],
+               "date_added": "13406706047253115",
+               "date_last_used": "0",
+               "date_modified": "13410646029487250",
+               "guid": "6753fcfc-5cfc-4b18-a1d9-16b213621ac2",
+               "id": "19",
+               "name": "Portals",
+               "type": "folder"
+            } ],
+            "date_added": "13405590582444382",
+            "date_last_used": "0",
+            "date_modified": "13405594785249648",
+            "guid": "6f5b4568-0e16-4006-afc8-88baf597f7e9",
+            "id": "15",
+            "name": "College Application",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13405594798278182",
+               "date_last_used": "0",
+               "guid": "77130116-d61e-435f-9dcc-d0949ec7ffb1",
+               "id": "27",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Install GROMACS",
+               "type": "url",
+               "url": "https://manual.gromacs.org/current/install-guide/index.html"
+            }, {
+               "date_added": "13405837097477523",
+               "date_last_used": "0",
+               "guid": "da690844-7597-4259-b236-8bbabaafb5f7",
+               "id": "28",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Amaro Lab",
+               "type": "url",
+               "url": "https://amarolab.ucsd.edu/"
+            }, {
+               "date_added": "13407051679751507",
+               "date_last_used": "0",
+               "guid": "3fa49e23-c61e-494c-8368-95fe44e4a0f6",
+               "id": "29",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Creating a stylized (“stick-figure”) model cell — NEURON documentation",
+               "type": "url",
+               "url": "https://nrn.readthedocs.io/en/release-9.0/guide/cellbuilder1.html#step-1-bring-up-a-cellbuilder"
+            }, {
+               "date_added": "13407051692794288",
+               "date_last_used": "0",
+               "guid": "817a65d8-6bb9-41aa-b996-0532c3c52ce9",
+               "id": "30",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "NEURON Course Exercises — NEURON documentation",
+               "type": "url",
+               "url": "https://nrn.readthedocs.io/en/release-9.0/courses/exercises2018.html"
+            }, {
+               "date_added": "13410245611066084",
+               "date_last_used": "0",
+               "guid": "94165d24-b997-473e-ade6-c9f4458af5bf",
+               "id": "31",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "poetry of the universe - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=poetry+of+the+universe&oq=poetry+of+the+universe&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMgYIBhBFGDwyBggHEEUYPNIBCDMxOTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13410245620453431",
+               "date_last_used": "0",
+               "guid": "4ff18a20-2fe7-4de1-933a-afc491db72ee",
+               "id": "32",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "imagining numebrs by barry mazur - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=imagining+numebrs+by+barry+mazur&oq=imagining+numebrs&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgkIARAuGA0YgAQyBggCEEUYOTIICAMQABgNGB4yCAgEEAAYDRgeMggIBRAAGA0YHjIICAYQABgNGB4yDQgHEAAYhgMYgAQYigUyDQgIEAAYhgMYgAQYigXSAQkzMDI0ajBqMTWoAgiwAgHxBcTiacpGsOfu8QXE4mnKRrDn7g&sourceid=chrome&ie=UTF-8"
+            } ],
+            "date_added": "13405594832500975",
+            "date_last_used": "0",
+            "date_modified": "13410245620453431",
+            "guid": "eeb77b98-9d4b-4436-91b6-851c38009598",
+            "id": "26",
+            "name": "Virus Project",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13406959275748220",
+               "date_last_used": "0",
+               "guid": "0fa18bba-1667-4b75-b99b-d4f099b14c13",
+               "id": "34",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Job Description - Computer Security Researcher Internship Summer 2026 (23258)",
+               "type": "url",
+               "url": "https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=23258&tz=GMT-08%3A00&tzname=America%2FLos_Angeles"
+            }, {
+               "date_added": "13406959342748512",
+               "date_last_used": "0",
+               "guid": "d7a0b9ec-3d95-4551-a77c-6982f338fb52",
+               "id": "35",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Job Search",
+               "type": "url",
+               "url": "https://inl.taleo.net/careersection/inl_intern/jobsearch.ftl#"
+            }, {
+               "date_added": "13406959494365167",
+               "date_last_used": "0",
+               "guid": "85fee842-3dc2-4cde-a8d3-854ce81c37bd",
+               "id": "36",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Scholarship-brochure.pdf",
+               "type": "url",
+               "url": "file:///C:/Users/amand/Downloads/Scholarship-brochure.pdf"
+            }, {
+               "date_added": "13406959548091463",
+               "date_last_used": "0",
+               "guid": "b72a7943-85f4-426c-9265-6fd920718f5f",
+               "id": "37",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Internships & Fellowships | Department of Energy",
+               "type": "url",
+               "url": "https://www.energy.gov/internships-fellowships"
+            }, {
+               "date_added": "13410927199520854",
+               "date_last_used": "0",
+               "guid": "8c2325fd-c284-47ac-9f63-b575ea798e78",
+               "id": "38",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Lyuba Kuznetsova – Department of Physics",
+               "type": "url",
+               "url": "https://physics.sdsu.edu/people/lyuba-kuznetsova/"
+            }, {
+               "date_added": "13410927464145697",
+               "date_last_used": "0",
+               "guid": "feb8347e-79af-44f3-891f-cfb8532ce52d",
+               "id": "39",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "The REHS Application - SDSC StudentTech",
+               "type": "url",
+               "url": "https://education.sdsc.edu/studenttech/rehs-application/"
+            }, {
+               "date_added": "13410931575132288",
+               "date_last_used": "0",
+               "guid": "33970e1d-8cfe-40bc-b13d-b8df33952974",
+               "id": "40",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Joint Science Education Project (JSEP)",
+               "type": "url",
+               "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=HSC-Dartmouth-JSEPandJASE"
+            } ],
+            "date_added": "13406959290167248",
+            "date_last_used": "0",
+            "date_modified": "13410931575132288",
+            "guid": "e5f1716e-d61c-431e-853d-cd05403342f3",
+            "id": "33",
+            "name": "Internship",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13407229305739712",
+               "date_last_used": "0",
+               "guid": "f44b5783-98f1-46ed-b1ce-9499962fb138",
+               "id": "42",
+               "meta_info": {
+                  "power_bookmark_meta": "CmoKaGh0dHBzOi8vZW5jcnlwdGVkLXRibjEuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1RGMnU5d1YxakFjRkZFblNveEN3MjhVQ0ZpU2dYZTVQbjVkajVlRDdLY0EtOFJuOFpUMoIBClJQb2V0aWMgTG9naWMgYW5kIHRoZSBPcmlnaW5zIG9mIHRoZSBNYXRoZW1hdGljYWwgSW1hZ2luYXRpb24gLSBEYW5lc2kgLSBTb2Z0IGNvdmVyGgoKA1VTRBDwp+BCIMDPoenptNfDMygBMd+WKteXFxiyOgJVU0iWndSh3bnoFw=="
+               },
+               "name": "Poetic Logic and the Origins of the Mathematical Imagination | SpringerLink",
+               "type": "url",
+               "url": "https://link.springer.com/book/10.1007/978-3-031-31582-4"
+            }, {
+               "date_added": "13407229337651493",
+               "date_last_used": "0",
+               "guid": "274be890-bb02-4dc0-a655-d153060d022a",
+               "id": "43",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Science, art and geometrical imagination | Proceedings of the International Astronomical Union | Cambridge Core",
+               "type": "url",
+               "url": "https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/science-art-and-geometrical-imagination/2BB41394FCE04925F665C38462241319"
+            }, {
+               "date_added": "13407229822765691",
+               "date_last_used": "0",
+               "guid": "ae603c83-cdf9-49bf-9d28-ead8f7931236",
+               "id": "44",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "The Creative Act in the Dialogue between Art and Mathematics-Web of Science Core Collection",
+               "type": "url",
+               "url": "https://www-webofscience-com.libpublic3.library.isu.edu/wos/woscc/full-record/WOS:000671999600001"
+            }, {
+               "date_added": "13407229830527717",
+               "date_last_used": "0",
+               "guid": "65dda186-aa0b-41bf-b074-0e98c2d727fa",
+               "id": "45",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "In Mathematics, As In Art-Web of Science Core Collection",
+               "type": "url",
+               "url": "https://www-webofscience-com.libpublic3.library.isu.edu/wos/woscc/full-record/WOS:000835340000024"
+            }, {
+               "date_added": "13407230804864813",
+               "date_last_used": "0",
+               "guid": "75bcacad-a530-49e2-abdb-38f9047a254d",
+               "id": "46",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Copy of Ask a Librarian Worksheet - ROAR 1199 - Google Docs",
+               "type": "url",
+               "url": "https://docs.google.com/document/d/1-u8pX2gmQA0dXE59A7pCzv7WZN7WZRnPtIjWBxdTV00/edit?tab=t.0"
+            }, {
+               "date_added": "13407230808440977",
+               "date_last_used": "0",
+               "guid": "1f04dd26-3908-47a5-9d7c-6f3dc2337bbc",
+               "id": "47",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "staff_directory_entries | Idaho State University",
+               "type": "url",
+               "url": "https://www.isu.edu/library/ask/staff-directory/staffdirectoryentries/semenza-jenny-lynne.html"
+            }, {
+               "date_added": "13406625642926169",
+               "date_last_used": "0",
+               "guid": "e8b78eb5-dcc5-47b8-99d8-5514149521f6",
+               "id": "48",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "",
+               "type": "url",
+               "url": "https://research-ebsco-com.libpublic3.library.isu.edu/api/search/v1/record/jpl443u73v/smartlink?opid=5ep436"
+            }, {
+               "date_added": "13406625937319962",
+               "date_last_used": "0",
+               "guid": "c2a0795c-490a-4416-9085-fdb3ad1823ec",
+               "id": "49",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "‪Echoes of the subject: poetic, mathematical, and imaginative interplay in the literary writings of Ada Lovelace and Sofia Kovalevskaya.‬‎ - ‪Record details‬‎ - ‪EBSCOhost Research Databases‬‎",
+               "type": "url",
+               "url": "https://research-ebsco-com.libpublic3.library.isu.edu/c/5ep436/search/details/jpl443u73v?db=ccm%2Ca9h&limiters=None&q=Mathematical%20imagination%20AND%20%28poetry%20OR%20science%20edu%2A%20OR%20literary%20sci%2A%20OR%20engineer%2A%29%20OR%20Ada%20Lovelace&searchMode=boolean"
+            }, {
+               "date_added": "13406625946071683",
+               "date_last_used": "0",
+               "guid": "83098a26-4fa7-4c42-8692-789b25b9032e",
+               "id": "50",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Echoes of the subject: poetic, mathematical, and imaginative interplay in the literary writings of Ada Lovelace and Sofia Kovalevskaya",
+               "type": "url",
+               "url": "https://link-springer-com.libpublic3.library.isu.edu/content/pdf/10.1057/s41286-025-00218-0?pdf=openurl"
+            }, {
+               "date_added": "13406625950029087",
+               "date_last_used": "0",
+               "guid": "2acc3200-8dca-43f5-8f10-088ac5f47862",
+               "id": "51",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "‪‘Ever yours, mathematically’: women’s letters and the mathematical imagination.‬‎ - ‪Record details‬‎ - ‪EBSCOhost Research Databases‬‎",
+               "type": "url",
+               "url": "https://research-ebsco-com.libpublic3.library.isu.edu/c/5ep436/search/details/zwuto55tp5?db=ccm%2Ca9h&limiters=None&q=Mathematical%20imagination%20AND%20%28poetry%20OR%20science%20edu%2A%20OR%20literary%20sci%2A%20OR%20engineer%2A%29%20OR%20Ada%20Lovelace&searchMode=boolean"
+            }, {
+               "date_added": "13406625953854008",
+               "date_last_used": "0",
+               "guid": "5bb2bfe8-48cf-46aa-9c37-a2e3f782623d",
+               "id": "52",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "‪The Lovelace effect: Perceptions of creativity in machines.‬‎ - ‪Record details‬‎ - ‪EBSCOhost Research Databases‬‎",
+               "type": "url",
+               "url": "https://research-ebsco-com.libpublic3.library.isu.edu/c/5ep436/search/details/kqlohgewan?db=ccm%2Ca9h&limiters=None&q=Mathematical%20imagination%20AND%20%28poetry%20OR%20science%20edu%2A%20OR%20literary%20sci%2A%20OR%20engineer%2A%29%20OR%20Ada%20Lovelace&searchMode=boolean"
+            }, {
+               "date_added": "13406625957242954",
+               "date_last_used": "0",
+               "guid": "5cf4048b-ba18-4e07-81a6-20461718ea24",
+               "id": "53",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "‪Technopoetics of the Anthropocene: Rendering Our Present through Echoes in Mexican Bots and Machines.‬‎ - ‪Record details‬‎ - ‪EBSCOhost Research Databases‬‎",
+               "type": "url",
+               "url": "https://research-ebsco-com.libpublic3.library.isu.edu/c/5ep436/search/details/7vnpfrs7pz?db=ccm%2Ca9h&limiters=None&q=Mathematical%20imagination%20AND%20%28poetry%20OR%20science%20edu%2A%20OR%20literary%20sci%2A%20OR%20engineer%2A%29%20OR%20Ada%20Lovelace&searchMode=boolean"
+            }, {
+               "date_added": "13410680214563890",
+               "date_last_used": "0",
+               "guid": "9c787110-e171-4ca5-beef-2f757f2a6718",
+               "id": "54",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Blackout Poetry: Eclipsing With Words and Images to Illuminate Ideas - PubMed",
+               "type": "url",
+               "url": "https://pubmed.ncbi.nlm.nih.gov/39035013/"
+            }, {
+               "date_added": "13410680222128130",
+               "date_last_used": "0",
+               "guid": "8aecc7de-da23-4461-b143-8d39a8f3ccd8",
+               "id": "55",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Bridges Aalto 2022 - PubMed",
+               "type": "url",
+               "url": "https://pubmed.ncbi.nlm.nih.gov/37362201/"
+            }, {
+               "date_added": "13410680226552059",
+               "date_last_used": "0",
+               "guid": "2a19d38b-1e02-4ce3-b702-d8b73895911f",
+               "id": "56",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Mathematics in poetry - PubMed",
+               "type": "url",
+               "url": "https://pubmed.ncbi.nlm.nih.gov/24474741/"
+            }, {
+               "date_added": "13410680233382003",
+               "date_last_used": "0",
+               "guid": "53283166-2f4e-4470-a68f-6471bd1fd376",
+               "id": "57",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Musical and poetic creativity and epilepsy - PubMed",
+               "type": "url",
+               "url": "https://pubmed.ncbi.nlm.nih.gov/26898116/"
+            } ],
+            "date_added": "13407229331804543",
+            "date_last_used": "0",
+            "date_modified": "13410680233382003",
+            "guid": "a1fbcc73-6828-4542-921e-c332d35caca2",
+            "id": "41",
+            "name": "LLIB",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13408053072914451",
+               "date_last_used": "0",
+               "guid": "096c3d78-82ab-4ea9-ba3e-f489a170f29c",
+               "id": "59",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Burger King Foundation - Create Account",
+               "type": "url",
+               "url": "https://burgerking.scholarsapply.org/register.php"
+            }, {
+               "date_added": "13408054766996009",
+               "date_last_used": "0",
+               "guid": "af652203-92c2-469a-b4cb-979accc349dc",
+               "id": "60",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Bachus & Schanker Scholarship | Bachus & Schanker",
+               "type": "url",
+               "url": "https://www.coloradolaw.net/scholarship/"
+            }, {
+               "date_added": "13408054916828424",
+               "date_last_used": "0",
+               "guid": "f9b7930a-01b1-45e8-89d8-553e6c70945e",
+               "id": "61",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Applications Open for 2026 Andrew Ryback Photography Scholarship, Deadline 3/31 - The Plaid Horse Magazine",
+               "type": "url",
+               "url": "https://www.theplaidhorse.com/2021/12/29/applications-now-open-for-2026-andrew-ryback-photography-scholarship-deadline-3-31/"
+            }, {
+               "date_added": "13408055015228488",
+               "date_last_used": "0",
+               "guid": "1e09db95-1c1a-4054-b3eb-f64d6799f395",
+               "id": "62",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Women in Tech Scholarship",
+               "type": "url",
+               "url": "https://designli.co/women-in-tech-scholarship"
+            }, {
+               "date_added": "13408055104831255",
+               "date_last_used": "0",
+               "guid": "5d17f760-b450-40cf-93ec-d3f63ae55e5f",
+               "id": "63",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Scholarship - Weston & Pape Injury and Accident Lawyers",
+               "type": "url",
+               "url": "https://dwaccidentlawyer.com/scholarship/"
+            }, {
+               "date_added": "13408055227233429",
+               "date_last_used": "0",
+               "guid": "dfc06110-5c5e-4fc6-8bc8-c9fe28e84b6d",
+               "id": "64",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Scholarship - $2,025 ScholarshipOwl No Essay Scholarship",
+               "type": "url",
+               "url": "https://cawp.scholarship.app/#terms"
+            } ],
+            "date_added": "13408053085025813",
+            "date_last_used": "0",
+            "date_modified": "13408055227233429",
+            "guid": "6acc2f76-052b-4d87-abb3-a2adffb6d18a",
+            "id": "58",
+            "name": "Scholarship",
+            "type": "folder"
+         }, {
+            "date_added": "13410140279009392",
+            "date_last_used": "0",
+            "guid": "6eaec9b9-42cb-474c-8a15-cb7f17c3ed83",
+            "id": "65",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "new-to-admissions rural kid absolutely demolishes T20 admissions : r/collegeresults",
+            "type": "url",
+            "url": "https://www.reddit.com/r/collegeresults/comments/1jneyci/newtoadmissions_rural_kid_absolutely_demolishes/"
+         } ],
+         "date_added": "13411695842471509",
+         "date_last_used": "0",
+         "date_modified": "13410140279009392",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13411695842471509",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cr8CCp4CCIiBAhKXAiAAkgGDAgqAAgoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJilMRX05HBgARilMRX05HBgAiMQlybAFfTkcGABABGRHlYEDnMdHwIAEqGTUxIWJtOjUyNzU0ODQzNjMwMTQ3MDg5MzEiMQlybAFfTkcGABABGRHlYEDnMdHwIAEqGTUxIWJtOjUyNzU0ODQzNjMwMTQ3MDg5MzEiMQkoScBeTkcGABABGfEyt49SNutDIAEqGTUxIWJtOjUyNzU0ODQzNjMwMTQ3MDg5MzEiMQnjMpleTkcGABABGdfsccQywryqIAEqGTUxIWJtOjUyNzU0ODQzNjMwMTQ3MDg5MzEpHXESX05HBgDqAQsIzL7YygYQgIrucxIAKhhJOE9UVnZ2R3E4b3l1WUpXNnNkaG53PT1IAxLsAQgKEucBChxCZEpTWkplVjNlWmlENTllS0U4dkdYNFcrWGs9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjYrY3FNdmpkbGhGTTRWQW5TZDI5RC96Ni92bTBrRkdwckM2OGEyNFUvbUFQUDlFb2V3cktZMlJORCtlaFJuQzJ2UFpKeEx3PT0YACAAKAAw2uOz3fjmkAM4i/e146YzQIv3teOmM0ocUHc0dzhLOUt2NjdZM1IySWkrSDRXZklaN3VFPVofIh22ZkdZb1NCRTYxbWNXTkpPODFGb05rcExzREIwPWUAAAAAEuwBCC4S5wEKHHBHNkRJZWJVcXJLKytJVy9NT2Y1WjI4dklhWT0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNlF1by8zek1wN2F5cHVjM1VJSzNvVlorSjR5aWptWUJOKzRMNzdMcS9yZmZPNFdzODZ5dEJJYmdzNk5jT0ptaUhLQUVXaWc9PRgAIAAoADC137Oo/uaQAziBt5HkpjNAgbeR5KYzShxBanpLS2M3QUZrdlRzdkZ1VDgvUlhpbWVWZlk9Wh8iHfdlLzg3a2tVc0E1VkdES1ZOMzBUbG5GSWk0Nmc9ZThI8xsS7AEIGhLnAQocM2FXT202WHdmdGh5NkRBbE5JSHQ5ajRidlBFPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2TzNmcUNIWG1NTXE5NDVnbTZCbUtYYUp1N0RsQVV3aHBtTGZqeVoyVVFId0crYW1GdHlEL1dhb28raUpmbFFNWFJrbVBQQT09GAAgACgAMIqs26WQnpEDOPXMhdigM0D1zIXYoDNKHEcveUVOelpKdExFMDFrV081dXpoUTkwb0V5MD1aHyId7WMyU3dkU0EzcHBmTTJLYjc4aXNCOEtIK1cwMD1lAAAAABLrAQgGEuYBChxrcER1K3RFdzBaT3FLMlFhYW5wOGh1SnR4OVE9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZNbkRXdDh1M21VaFhzNzJvTUFBWEFFRFZ3QUMreGpXbmZucGNtellsRUhoOFdZWEczVFdlRTNnTjloR01ENmJPRVN2TEpBPT0YACAAKAAw4uyM1fuakAM47a3Ohp0zQO2tzoadM0ocT0dHZHhxRGdnNHR0ck9rbS8rMlJrRU40K3ZJPVoeIhxtaUhLcFpZTGwyMkVuTGJaWDZOVEx2V2NWSzA9ZQAAAAAS7AEIPxLnAQocQ2MrcUdNL3UxdUExemdqL2xJeG9kdmtaMFQ0PRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2TmRic0FvWGFqcjR6SThYNVFDeElhbWsyazNJRmtiVTlqUDJyajdRcVlJNFR4aG5sL2NvUURERHdlSWlack5IZEw1eExYZz09GAAgACgAMI7E2In9/pADOL/amO2pM0C/2pjtqTNKHENkWkdHM2tIa2VZeG5kOVZmZEhYc0FTKzc0Zz1aHyId9GpiVldkN3o4TExscmFBbzd4LzQraHZYWTR5UT1lVxBfIhLrAQgdEuYBChxYNVNZdzZwemsyNDI0MU1abUFSZVIySDhxRU09EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZuNlNmKy9laUx5NHJYNzBsdGo5K0JSTCswVS9Gak1WcHJxUjVlalBMTDNOTE9zNm9sWHBQeWZOMzNDd3J3QTJXTW1ER3lnPT0YACAAKAAwyfPihePhkAM4iMDcjqYzQIjA3I6mM0ocNW9PNFhyak41bE5VQ1d0YnVFYTYwdkQrb2g4PVoeIhxtZHdTTnlyVkV4R2tRemQ5N1htVDZ4RWNOTHM9Zaa6Wn0S7AEIJxLnAQocdC9WbWtWNTgwVk9FR2NlOWwvbGhFbGt1YnBnPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2Q1pFUnRqYW9DQzVyRDF1MFExd2tYVy9UZlgwRElxOTlBdm9DeDJOZ2NDUkp3UWo4NzJqNTFCMVE1R1lXbmJwdm1tbVdiQT09GAAgACgAMKDI4bnJ0pEDONHN68a0M0DRzevGtDNKHGpHSmE1S1J1c0c2YVg0ZEZEM1MyMXRXcDNhTT1aHyId3GhwMThCMmdHZC9FZTY2eXNBUENKVkY1MWh0VT1lB57qIRLsAQgvEucBChxnUE5uL0dSc2lrdFFnOVRTWE9ZOGovREdQYWc9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZuNTBneEp2dXdDR2ptWnlZVzl1ZzJLdUthY2dIaGllZ1B1a051U3BDZ0V3b3lLTndvalRydnZ0eVJJa3V6SlZIb24xNTJnPT0YACAAKAAw8K74qf7mkAM4+dKR5KYzQPnSkeSmM0ocZFBpdVJ1cmU1ZUhmT1NhRjkzZ1ROSjVOZWFVPVofIh37djd3WERDSnhobXpZT3F0Y0pPejR6ejNCTVpzPWVehFaKEuwBCBcS5wEKHDlvcHBaMDFaa3V0UzdLaXZNMEdxZStkMFpOMD0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNkovODFkelVVOENIL1lxOE1ZbnVzcm1sQ1hWMDlIdnQ5L0VTRTFvdjRVb25na0QwbVhvVUhKWWFWelFlMjVTeURqUE84Qmc9PRgAIAAoADCo9pzFsMqRAzj1gMrAszNA9YDKwLMzShxqM2hqOWJOdnhabldlLzNHZERiQlVCaEQ2L3c9Wh8iHbhPVjA3RXoyNU5PVU55UktDdGovTnZJRjFWNG89ZcNkTLYS7AEIPhLnAQocZTBuM3FnMTZERmhpRmY0Y2EyYW9aVGhaOCtFPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2ZnlrQW9tYm4rU3FXcmpRd2ZCQTMyZE5LVGsvUjVTRWxhWnNRT1RUcy9NVmZhbktSU3ljMkR1bDVsa3AyazJXV015eXQ3Zz09GAAgACgAMIG++978/pADOLyek+2pM0C8npPtqTNKHEk5ZlB0RGxFZ2t5eEJ6TU1OaXZFbExOckVjZz1aHyId6XlvcHdjNzJaQlI0NjR1d2pKdEFPeUo4QXFUMD1lthqEaRLrAQgHEuYBChxsTUhTYjdnRHBmYkFLd0tuWlowOE8xVGFCY1E9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZaTS9ZQXF6UXRlLzQ2NGZuRVA0dmJTNWRFVXhhNGpSdmhScnNhTHFvWnJvcjluUWRiUndPUU8ydWQyUm9LQmlNN1lnKzNRPT0YACABKAEwoKSt4sXpkQM4xrjMhp0zQKXpmb+3M0ocM090MXdzZVp1M3F2V2lmSVpPV21wV2dOTVJBPVoeIhw5UXVjYlIxTk9nTlhTV01WaUF3WlM2OTlSNW89ZYVn7Q8S7AEIPRLnAQocSXhyQWlrVE1qOHpTYUZYdUw1bkt3a2tBRFdrPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2RWNNcEZ3ZkxWT2Voc2hvdnB3ZWl4dXVJbVVVendiWWlmTm5DQ2ZoTThOQzdEdnQrVUxrcHI4N0J3RHN4RlJNT0NuQ1BwQT09GAAgACgAMK3vxrH8/pADONydje2pM0DcnY3tqTNKHGVNLzNiTnNTRUNtbDdHTjVoSzByay9jMWJqND1aHyId0jVPNWNTeEIyOFNEbUl4amJyUG4yZlRudDlSVT1lAAAAABLsAQg8EucBChwrTnBoZU1Fd3RsZFBPczlwTVhKK1ZrN0NMYUE9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjY0UGllM1pEdW0zaVo2VmNQUWJCdEFoeHgxd0NEZ013MFlHK28xMlJsQzZPWGhDYWRTQllhQ3JkdlFtVzRXQlJZb2QyNld3PT0YACAAKAAwsrXN6Pv+kAM4lIuE7akzQJSLhO2pM0ocWG55SVFiT1h1TEJSNFFrak8wY1NNVG9pbzFNPVofIh2kRGdhRkVFM2FHMDlvNmh5Z21SanlTVmZOYUJVPWWi/JAuEuwBCAkS5wEKHHNyYWJ1YnBvWmJFcjM0TUVxS0ZLdC92V29UWT0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNlFEVmswV0ZqYkk1M1d3N2h6VG5KNzBYclpPdHJGSm9RYjhzVGpaRXdobnJEZS9OaDVBVzF2a1RzVndpUWhwV0J2cGx6UUE9PRgAIAAoADDSq/vJtJuQAzim6/KNnTNApuvyjZ0zShxORmhHUWRiV2c1cmplckh6emhCWTBWTUN6ZTA9Wh8iHadHT25SY3pwaUJEaUtBRFZYWklwQUk3aGlocHM9ZQupAaES6wEICxLmAQoceS9XKzUzVlFTRlQ5MjlCeGtmM01rTGpoM0M4PRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2RjJIRTJSTHFqeXVrVUh4akJKYjdEMU1ldkxPWTArcTF3cmF4RHVnKzU3R3pudEppWjdDZFpQbWJBUTkwSm1Ib3RLMUtJQT09GAAgACgAMLuJkfPolpEDOKSf6vOsM0Ckn+rzrDNKHGNuUys4NXJISmtsV0tvR0lYd3g4MDVNbHNScz1aHiIcZ09GeGJtZTB2cmY1RFZCZkFLckRkL3lyTUdvPWXYYXSBEuwBCA0S5wEKHGIyTi9EbnF2VjZ4blFPWEI3ZHNYY2JHd2J0TT0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNm9KWjlydDNTSDZZNE52SCtqWi9GVXByRFFqTmNWWG43c2JvdDhIMGxvSkVLZmR0R3ViSE5BVEltV1NvbzY4MWVMVXJMd2c9PRgAIAAoADD66uWgoM6RAzip74OAtDNAqe+DgLQzShxZYlRBT3ZTVmxlTzY4SkFXOE42YWFPWDVFVnM9Wh8iHdlrek5JUmFuTnBRZUlEbjE4NG0rbkxsYVh0TnM9ZWVkjMgS7AEILRLnAQocQXlnV2JBK1ExcExlbjZKOFI5ZDkydjhHUHp3PRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2dktHUlBITnBiaVh3QVNDeXlRVUdUNjkxZGFJODFJUFdEdDNTcXN1N3VXWUpHTitLTU1GYkhURGxsaGsySXAwVmxuaXAyQT09GAAgACgAMKy40df65pADOP/61eOmM0D/+tXjpjNKHHNHZi9BdWFkRld2cnFoY3BvOWRxdExjMm9Maz1aHyId73M2d21lSnRnbTVuVFhneDMzWlFMMzhYeXB1TT1lGrlvLBLrAQg7EuYBChwwNWsvTW1jWUNKWTVBY2lRdnJMeGVFYVZKQ0U9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjY0ZG0yQzNJRytMWENTU0Fhb0JoUWswMjNCOE5Mc2R1bjZzWVcyWnVHeVlxQ1NHNitvUy9GWVFFQ2NPMHh3ckgxeDlRUzVnPT0YACAAKAAwjInJxvX+kAM4k9ic7KkzQJPYnOypM0ocbXhGR0dwNmtrVUdadVZ0YUtWWFljT20reFhjPVoeIhxINGZpR25JSGIvQTduZDI5dENJZ0FNczZhK289ZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5YjVoS3RZUDVKclUvWnFUcytsL1o5eENwemFLZ2M0c0plcVdLaWlSOGtiVlM1Y0p6czFOdkNuc3gwVFVFVjkwWm1kVFJWelh4TEtsME5QMjNQWVlYamFPRHNsUT09GAAgACgAMNL7wv/36JEDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7AEINxLnAQocMnhhbGRqNGxGQXNVbStjckxHOWxTUGh2MW53PRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2TlJtbkgrKzNnSmpUcSszYTV5Rys4TVgzRzhWamR6TndUOFJzbFNTbFUvRkdKU0RMcWRaa0I1bnQwekViNGNsR0Z3TVJkUT09GAAgACgAMKCo17Gwy5EDOLCT+dCzM0Cwk/nQszNKHHU2NGxtVlRZWVlralBLbEF1cXRYNDRnQnFQYz1aHyId/0RnN2liYXBBc0V4aFltTHFWckY5b2U5ODArMD1lEQdskxLsAQgpEucBChx5LzJ4c01LdE8xbzBBWCtOanVZL2FyTTgzQUE9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZtclhvM2I4dGs0azQyNFpwamxjSFhMZ09XNFpEbkxLRnBtang0SEhIUURENWo5WWVoT3Y5TjU5TEJxbVBwdkJWQ1k5Z1Z3PT0YACAAKAAwiqzbpZCekQM43MK346YzQNzCt+OmM0ocYTA5RExURUlqUUQ1aFlVdmJQTndzUVJ4Vk5zPVofIh37QkhGRSt3RVNGSDVtbnNLNTRDVnA5S0pLc1ZvPWUAAAAAEusBCBsS5gEKHG02VEJDWnBJYlYxcmNGUHB5Tjh5bDBMWndTUT0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNjFYdkxXQ1Q0M2tQMnZYcE9wclRLVHliNTVldldCOFY3WmlTYnViTkdaWUhzRGtvaFRnYkJGd2pGa01iem5UbFFyMVhVL2c9PRgAIAAoADCH9cXsr7eQAzjGwYPYoDNAxsGD2KAzShx2TFN5Y2Q5dG9pbm8xYUltUUVjNnhhY0NzTjQ9Wh4iHEp6cm5DS29VTWVTV2dOL2EzdE9LSG0yV1k4Yz1lAAAAABLrAQgQEuYBChxKY2NjaGlWZmJURFlVZHZVVG0ycnlya0JKRXM9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZ2NUR6elliL05kL1VhZTdaMXkwL1hlbnY2M1lkUFRSRzJCTFVSRXY3aTJyVXNGYkpGS2crMmZGaWlBVG45SS9oTTZkMjVRPT0YACAAKAAwyLD1gaC3kAM467//1aAzQOu//9WgM0occHFTb241QTkvT2p1Yzg2YTBnZDFIWVZiZVg4PVoeIhxlaWRIcG1ZVkViN2hmQnA5eElyUHQwTjVBZFU9ZfiWVw4S7AEIIRLnAQocczlqWENtd1ptS0xkYUZZVmxDeitMRGp6WFZ3PRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2bk9hQVArbXNrWFB0R011KzBoMlVBWmR5RStOOG9Lb2VONUNiUkRTL0lzcWY5bFJZY1lndTE0Wi80YXdTWm1KdFcxUVh0UT09GAAgACgAMIqs26WQnpEDOLe+1eKlM0C3vtXipTNKHFI0M3YxK3FTeEd1ek1BL2lQMGQvSXJXRW9wYz1aHyId9mVnUjRnY3dEeXBUcVVlb0dqSmluT2U4dG5Gbz1lAAAAABLsAQgTEucBChx3ZTYxcGg3WXo1YkZGWUdsZTlMeStSTHByd2s9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjYweXNIRkJYUFJYRWZsZ3RCcGpYMUVhTk9UM2ZJZGRFc0Vwa1dlSUpEODRXYlJaOTdLN3FrUkFMalJyNmc5N1FDUHgvbjVBPT0YACAAKAAwh8eSudvXkAM4leL06aQzQJXi9OmkM0ocSkpMaVE1ckxxQjNtcmNvVHg4b0s1bTBDOXNVPVofIh32dW9ycFNLMTFlSFNPSnh2anJEVGxDeit0Mk5jPWUAAAAAEuwBCCgS5wEKHFVZaldhYWtOSGQ0UkZXRUlKZjVrQkVkWXVLZz0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNm5SVjJpY2RLWGZMeGNaSlRWVGQxeExHbWl4STUvaUdlcFpDMjJZMlhLanV2cWlIaUZCanNUOUYxejdkMjl1Y0phTnJHZnc9PRgAIAAoADDnuYTi2NKRAzjcwubItDNA3MLmyLQzShx3QmN0Mk04U3lYTDRaNDRmZ3BLZ3Q1MVliL009Wh8iHe5IKzVnVFZSY09TeVJtN0ZvK1MyVHI2NVVoMTg9ZVOo7tkS7AEIIBLnAQocRmJMVGFqL242RGovMjFFK3p3ZU90RStTWFZZPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2aGJ3WStMMHE1cnI1cWdKTnlEeldDdmhYZmc5UkF5bktUUktmMjNrUDhvYVI3VFNlb0hCLyt1NjhBOVJwRFE4bHZnN0pzZz09GAAgACgAMKiQmLHdvpEDOOaV24GyM0DmlduBsjNKHGZtWXF6WjdRSCsrZkRKRFJMa2NxQ21SMW85Yz1aHyId7ThOTDRtN0xvdzJGN0ozRGlMQWRUaDlKSE5Edz1lYumySRKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnhjVU5YamJrNXVtOFBQdHBmbWhTQ2E0cjE4MUFOckcxU01ISUFUaUZ6ZFVIN0N0RDhSZGRUR2tOdm93TlhGOFpWSFJvYTIYACAAKAAw0vvC//fokQM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWndHRDlnamo4SzBtR1hKb2E3eHRwQ2pNbFlZL0V4VFphVEJvRDBFTDd5emlLTkFSMm84UFpuRkp6Mkt4QkNPNUN2c1pEZVlDMm8xNy8zRmRQZWE1djB4d2dScGtnPT0YACAAKAAw0vvC//fokQM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLsAQgPEucBChxpT3VtNlc5R2FQdE9rYVhpUDdLbEVLNU9nRWs9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZERGZkYyt2aVRtYzdseVlhNXRrT2I5a1dUYU9hczU1aTVWUEtaT3BVM3VyNEp1NCszWUxwbHgrTXh2ckJtQ1F2cm5YSkpnPT0YACAAKAAwiqzbpZCekQM4rJmC1qAzQKyZgtagM0ocWDRlTmpaNnh0Ly8vcC9mTTBmY2FYUXFLY2prPVofIh3bRlgvdE9OV1IrOUptMmp4c1NXUHh5cURTbWhRPWUAAAAAEusBCBES5gEKHHorSU9qSkNicm9nelFnM1VtdXJHUWV1YW5SZz0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNnZrWC9mTXNWNVJsbGkrTzdsWU05Qi9sOVBCeEtGVE9xOStBZnhaU2gvcG83L2FXSjRuQTVqbjhDRncvY2FscXBvNlhZc3c9PRgAIAAoADDstrvSr7eQAzjaqILYoDNA2qiC2KAzShxscXFCRjZHa05CY0h3RUNBZlJvZm00YXZLRkE9Wh4iHGtFNzkyODgzOFBqRmdqYkUyT3RBNEdZdElaMD1l+JZXDhLrAQgFEuYBChxVZDNkZEIvd0pVSGNKU1d3Q0RKZHFFUGhjWHM9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZZK3c2dCtWbXhMM3VqL0h5ZVlhMXdjdmd3cThTbm9aUDAydUxxWHpsZVI1ZElxL25paHBDd1A5dDRZejZQQTZ4N2FUZjV3PT0YACAAKAAwttzqz/qakAM4pre9hp0zQKa3vYadM0ocYWZUckZEUjJ1U1JGdDg4OG9DbStMeDVPQndBPVoeIhwwcFlxbGY3SHVBdVNxQ3R0VU9EMmJTVG5xOW89ZVCAcB0S7QEIMBLoAQocNytOSUlRby9XZCtRMm45R01VaDlwaXlxdldNPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2T2xJVVh3SlljVGVlUmpXMnFoQjdpajEwZjNqY21Hbm1xeHBIMm96RjcwMnhMd1RZVkRJNjJPeEEvOC8xdFdJWUx3a0FuUT09GAAgACgAMP+G2b2QnpEDOK6jycOkM0Cuo8nDpDNKHFlwSUM3ajluWDdSOSs0aVFYM0RDT1dtN3ZLUT1aICIe+4dGWDRiaWM1T0RadVJzN1pMdTR5cnVrWU04a1k9ZQAAAAAS7AEIDBLnAQocL1B6WFhJWGE1YnJqbTBJemh3amxqSCsvbkZBPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2Zy9wR0RubmFHQWM2aXJOcm5xbFR3bzNKOFhjVVRTSE1nY3JrYVpmOHVoc0tJVzJNQnRNNTA2MUhNVldUZU9YR25oNXQyZz09GAAgACgAMLG7pcyezpEDOJzO6P+zM0Cczuj/szNKHFJMdEM0Y0Z5MG1Uejd2b1d1azFNSlhBZDJkbz1aHyIds1dxQzE4S0hKSU5wbmo3VUxGVDVFUDZXM0F4bz1lZWSMyBLsAQgYEucBChxLYU9vMHlGSWlGZ1pKSXlheFdKMFprM3F1SHc9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZOSFJCVWwreWdkYUxabCs2YmlGd1hxWC8yTGpHbE90RmxKUWhOc0dBaUt6UkFRVW9KS1Z2NllGYWJpSWxLNndReVdVWUdBPT0YACAAKAAwvqCW87DKkQM4yrDQwLMzQMqw0MCzM0oca3M2aHpUZUg5NkRNNStWYVlQRUJlWnhDbXlvPVofIh3cSmo5WlVsQnk2L0h3UVpac1ZLOVNFcCt4Q0VrPWVSMzA6EusBCBUS5gEKHHROdkx3VjhOQlloNnhlcGZoOEhwcE9GSmU3OD0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNmY2cDhCUHo1Rm1JN0FkcDh3WW1rWFVlR2N2Q2N4MU1YZFlLTDFTYkxJbUh6bEpqbUxBV0t3Qmp3SXArcmpjL01WOHNuTXc9PRgAIAAoADCalL6UkJ6RAzjM8cTrrTNAzPHE660zShxGcjhVT1ZQeGNTL1k1MGRNUUVsL0c4d2E2dms9Wh4iHGFtTVlDLzhNTktyazV2TWVZeXhBOTUyOGZKRT1lAAAAABLsAQgZEucBChxWOE5jQ0swdytqQ3Q4Tk9RdDB0L3VRT0FvL0U9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZtTVAwcHV1RkI0eHl5cGxrYldHTGRHWE5VelZEQ2RvNVliOEhvRzNreWNWalJDemJnYmh3c2NpQTVYTTF1Ti9PSVJkMmJ3PT0YACAAKAAwg86ygbHKkQM4sJnSwLMzQLCZ0sCzM0ocTUp0MWRlRkxpUHpjV3JGbmFmMWFtcndINVdnPVofIh3uZ3VLeU95Rzh3NlV6VzdRZi9XUlpVZkdvYktzPWWncPg6EusBCBwS5gEKHElnU3pSSytNcnVhTndPQkNwTnZEQ3QrSHlEUT0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNlRTeENwVThQSnR3d25ZRnVxdEhCZHpTay9VZE11V24zSDhtTWpGSEoxMmkzVVkrWkhiZDR0ZjFsdlNEK3JvT3MycGs2QUE9PRgAIAAoADCsndmttr6QAziGpMjLoTNAhqTIy6EzShxZMytuamtFZWFkcU9pcitweEFrUFN1UXdaMGM9Wh4iHE8yVHExV2lkbERVWm5yYXpDWi9lekZQOWllQT1lAAAAABLrAQgjEuYBChxaMmgzWGh2cndOYkZhd3BsaUhGRHhnc0IvRVU9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZrd0t6UWg2V0lBM0VWWjRWRmFMTUJmOWZLQUJtR20yc2c2YktWSFFqN2lwUFNyb1pROFJFVkk5bGhBZjMvRmptZU84cU9nPT0YACAAKAAwyPD1hYvfkAM4nNnY4qUzQJzZ2OKlM0ocSlB3c1BnRGN2cXp1NnEyL0Fld1FZd0hVRWUwPVoeIhxlQmE5cG4zdUlYako4T0NUUktBbUJWc0lTTzg9Ze1fGC4S7AEIJhLnAQocT1lQb29kbitlck5QWFRzVUh4V2lIaTBjaGhzPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2QTNJMXZCV0ZPbityemV1aWtMRG5wRnNpTVdBRzNwTXNGV1FKWmU5dFdPZVNuSXByUDJvWDRkNytCN2ZSV3ZnaEZnWlNwZz09GAAgACgAMK+UksDI0pEDOKG628a0M0ChutvGtDNKHEpLUkFrcVBWS1h1TzhITCtSSnBpdEVNczVSZz1aHyIduDZpWHZ5dHFoYk1QTGpPWFIzOWhmcVJsM25XTT1lMp1sIxLrAQgIEuYBChx4MXY0ME9jeDdxL1JqQXFoNXR2ZFpyZjdaMG89EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjY1eVFsQ2dTTHUvQWVJT0U2a3RDUEVuNVhFenQzeC9YWksyVVZBbWhtV0c5S0NROUh0MVkwZkp3R2loZ3oyOTF0S3FtN093PT0YACAAKAAwpLWXhv2akAM4nZHlhp0zQJ2R5YadM0occG9RdCsvSlRBNnQrM1llRkpGNXJQRGpNTk1BPVoeIhxPNXU4ZnE2b1ZuRWZaOW1OOGZMR3ZzalJFRnc9ZdeRPTkS7AEIQxLnAQocam40OTU0ajFVa2NRd0tmcGE4d2lIVEIvY3Z3PRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2UEVWSjZ6NnpDU2Vrak1BUTd4SGNnZ1VpdStTRDFqZVVvdWFaalR2ZkV0TzU4eTNOY04rcE5vRDVSK05EWDVLT2xGT1g3dz09GAAgACgAMPL19+qSspADONa1soKgM0DWtbKCoDNKHGdObTFMQVdTd05IMmVkbldjTDBBeTJDZWhBaz1aHyIdM0x0T2lKZHUxcEJzcXJId00rZVl0dHY3MGx4WT1lAAAAABLrAQgkEuYBChxFbTNjR3VFS0FvL21EQkQ3WTIrRUt5dlh0S0k9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZaNStObmk3ZXlvbzR4Yzd0aE9vRE5FaU9QTERrZ1ZUTnk2eENqZDRIbFgrTVNYckcyU3lkWlNld0dqUHdvcEtwZFZZdzhBPT0YACAAKAAwoJ2kzovfkAM43fnh4qUzQN354eKlM0ocSUdUNTJPc1dlM3prSHRPVnAvK2tyM0Z2cklRPVoeIhxodkNGeGJXZWhYRDVtSFhjd2R1MEVvbysrVWs9ZQAAAAAS6wEIIhLmAQocOVhuMUNvTmthQ05JSDBPRWFCNlFPSVBJcnJjPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2WjgrdHBQdXlzeHB5Y1JPd203R0tuWFFNUFI4YzdkNGFtYUFJRzd5VmwzQXFXMmJVM3A3VzdpTzhpanZkSHNVS2hUSHF0UT09GAAgACgAMLvN7+yK35ADOOTN1OKlM0DkzdTipTNKHFErYjNULzRkRlBnenNzVXlVNXBHWHFTWUFrbz1aHiIcTDcvbnQ1UC80RVhUOFEraFpDL3I4MFdnWkRzPWXtXxguEusBCCUS5gEKHGR4cGs4VjErbWV4aW55RFF1RU8vc2JxTDlDdz0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNkJFUDlyYkZuM1dadC9VcEl0UFB1WFJJSDNjaHI3WXJKcDVGMGVSWkRMZEpIbWE4YU5kUjRkZi9jaGpaNmQzOWYxcWEzWGc9PRgAIAAoADDtp+vni9+QAzi7neXipTNAu53l4qUzShwyWXBNYWVSSGxTaFozdVhuVDF5enhhUVVWOFE9Wh4iHHA1NWRMZEdndDFLRXgyN0FOU0paMVNTanlEYz1l6j1OWRLrAQhFEuYBChxJQlRqWmJpNkdtRDlnNXN2eklYcEFJRXJ0K1U9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZKZkJnalZsVzdNN0FPQXh1cVBPbXNnR2xDOUNmQ2E5ZkxwTExiSHlpSHpMUy9MQUs1YjF4SG5JVlVaRm4vbTlmTDQwR3NBPT0YACAAKAAw3KiP8/38kAM44tSwgqAzQOLUsIKgM0ocd1lwaVU3MGFVKzlvYkYyU0FyOTlPVUE0SEhVPVoeIhxETWhCeVMvcGZJYkdERHVrZGg2RXg0YTVUTmc9Zc+ktj8S7AEIDhLnAQocaTVjTnVWQStUcE1XV0E5MkVJT3hwRm5UdnM0PRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2NjZkVTVtcGo2Y2JWYlUrSk5lLyt5MWFqcGN6T0hnb09TRXQ0UlpvRnZUTHR5SU9YT1l0eVdhSm1lSUtNd1J4MGVVSU9yUT09GAAgACgAMJ2WxL6gzpEDOOXPh4C0M0Dlz4eAtDNKHGtEU1B3YkZXVHZ5VVZCbXRxdHc5OFlWbWdQUT1aHyId7Extb1JkQWd6UG1xTDYyWXVZTkVVcWluZEk0RT1lZWSMyBLrAQgWEuYBChxCVndSay91a2JoUHpEWW9pWFN3bEJ2MG55bWs9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZoV0pKOHcwUlJiZi9xUzEzZlBiQkIzMDdSQ3ozZTR2aHBxNkJFTmtCM2RyTjZvQ2ZKMHZQWE5LdmhBSEpOdDRmbU1UclBnPT0YACAAKAAwyY3Tu9S+kQM45vLIgLIzQObyyICyM0ocMUFrbmJKeUhCRVo1S1ZPQzBZY1FqM1BJVklvPVoeIhxwWklpdmErQkUxNG4vVHh5ekkwc1BYc25ma0E9ZSF+DGQS6wEIFBLmAQoccVE4V2d3ZnRTU3ByV2dtTk1QRjZTR1M2LzkwPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2UnJxVC9yM1FNQ1FkL3BDekxFaEFBWjc2dExhYXdPNE1DSnJIS01lZktOTHRMWFRvNVV5bnJ3dVRHTFRMV28zUWZDYnFwUT09GAAgACgAMIfHkrnb15ADON3P8+mkM0Ddz/PppDNKHEVHNUJkckdudUVBcDI2cklKaUU5dmFuT3ZsYz1aHiIcUWVFVlhVckgvNHYzNWVjb2dudWJwUm95TVkwPWUej7K9EuwBCBIS5wEKHGxycmdjMlZXYXhuYitJeXhvemp2NWt1TXMyND0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNldJMzRnYU5hSWsxeHVXN2RqVnBCYm95eDU3S1BwMTQ2M1FOQyszL3ZMRlZOZ0hrVDF1N0xxNUJMdUFzQzR1cDNQTHQvR3c9PRgAIAAoADDol8XZr7eQAzjh24LYoDNA4duC2KAzShxrbXAxYlZHOFhWK0lQcDltdkppcTdZQXdmNTA9Wh8iHbVDNHZSaSttTTgrb0djOHlkVEFUakdvT0UwTXM9ZfzImQUS7QEIMRLoAQocTWZ2S2l3ZVVIVStvblljcm5kcmJCZDR2MldRPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2QjBoemlZMlBmbzhhd3J3S2kwWXBjU0JicVBrb2UzMEpiWXludVMxNnRsNDVMVGdSZ0JYSUdnUENmN0ZoeDh3UzNsb0RPQT09GAAgACgAMP+G2b2QnpEDOLGf28OkM0Cxn9vDpDNKHEdaM0ZZTnRhMHhucnRhVCtZaDl4LzFrUXhBTT1aICIe+5hUdTRlckZURnQvbEw3Qlo1djB3Z3N3UTZjZnc9ZcNhVLAS7AEINhLnAQocVXNZNnRoUVQxQ2lKalBRSWxRWllEazJNZTlJPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2SUt0SFdUV1lQMkg0L0ttRVk3MTIyZVAyWnhxOHRtUmhLUldpczdmQ0huM2tWT3haTDJUb0FSdlBkQzRnSFNDUXFuTFJNUT09GAAgACgAMLbUmq+wy5EDOKTY+NCzM0Ck2PjQszNKHC9PcGxmMHN0YU5DVWtMSkQ0RXhzS0o5SDA3TT1aHyId/jhiYUpUOEJCUEtkK2lNR3dXRFNEZ1Z4UUtUQT1lEQdskxLtAQgyEugBChwvcEZFNnIzSk5iNWdzSStpOHNNV0U4bnBvb2s9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZNUWdINzVDd1ArNUJWb0tNVWc4WGN2aS9iVHdBRElTS25YdGhkZVRsOGhZUHA3aGNjQk9YZWFITkZRT0hHUlJZakJaOGpnPT0YACAAKAAw/4bZvZCekQM42OPbw6QzQNjj28OkM0ocMlRBY1hqbjJsK2xFRWo1SS9lbVM1U1lQeFIwPVogIh77u1RGUWhUMWVwWDE3T0FqQ1ZtbkhNeDdGRXJhbz1lAAAAABLsAQhCEucBChxOZEJLdFJyODhJYlpYaldDOW9sS29TK2xoYUk9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZUYjg0L1B2WE0xeUVudXBPUGp2cTRxWkRWMEtiTzdSTGJmYWpmZDhtSEkxMlp1MFdXak55NW1aUllKZ3A5MnhLNDB5VGV3PT0YACAAKAAw8vX36pKykAM4tumxgqAzQLbpsYKgM0ocTEY1V2RWVjIzNExIU0JJNW5KcnorOHdod3FZPVofIh0ic3d4Y0lQQi9PMlUrZDRvVDhTaEVZdC9NQjE0PWVD+G2AEuwBCDMS5wEKHHVUaktMRjYzQmVrRTJZTGpQQlV2bm9jNlJjaz0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNmRWK1orNVlIQ2h1SHYvZzN1aVNNMTZ6SlFKdXE1bmVlZkE5Qlo1Zzc4em5kOUlZd0lIb2lTNFJ2OFROc1ltYXY3S1JiSGc9PRgAIAAoADD/htm9kJ6RAzjNgtzDpDNAzYLcw6QzShx6RUZvY2JJYXEvWU9uWTNsVllQYm9oVHU5d2s9Wh8iHfxLVEpIZ09XVjBKY2FwdHA3dHJxMU1SVWZ1WHc9ZcNhVLAS7AEIHxLnAQocOWxxbzJTNDN5ZjI1Z3diUjdZd3lkUDczY1U4PRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2bUxiVExpcmo4cVRKWDhZUjc2RWpReStVTFUzUWUvVEh3STZqUHNVUmVkeU9xZzFEL2tCUnJBY0dvRzNLNVJIdmZjamRnUT09GAAgACgAMKqUxK7dvpEDOLrM2oGyM0C6zNqBsjNKHGJWRUtqU0NPS2xHdnkzSmFQMVRiK2t5aENmST1aHyId201NNStKWVg0KytoamxLZ284eEg0NmlOcVliMD1lYumySRLsAQgrEucBChxHcWU1NngxOURROE81OUxXNkZOalNMbzBrV0U9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZXbHM3VURWWGU5SEtEK096R3NtODJWeFdPZlQ1Z3d4WmlMMTNxM29peDVxU0ora2dDeUtQSjhWZWc0MGxRM1Ixajdnc2Z3PT0YACAAKAAws8PO7PjmkAM4s/C346YzQLPwt+OmM0ocd2toTll6QVJMT1JaM3B3Rm5sd01GUkRyMjhBPVofIh29NFlGTVJ4dVNMb2xZbHFnQ3lJekI2YnhBZ1djPWUWW61nEu0BCEcS6AEKHEZEMmxiTDdUQ2s5eE81ZFd2Ry9GR09XTjkzVT0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNkpVMDlnNnluUGVRNnZhSDl4MlJMOWRoMFdVQmZkQmovSmVFY2FuMS9tTWRuUTdtbHlYdndJbldoWU56NjBTRzJNM01BdFE9PRgAIAAoADDxyef5/fyQAzjT5KuXkTNA0+Srl5EzShwveDVIdndOZnFKUnNpTHRSRCtBS2dhS2JsVVE9WiAiHv+0MjFSSE1GSWR6RExWMUlxL0xxM0tXT3YwbFlRPWXjaAEmEuwBCCwS5wEKHFpDdnJFdi9oZFNCK21jTmhhWWMrTmFrZ2g5VT0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNi9mRW9yRmJTdTExZkN3Q3c5V21IdGRCaWd5a2F2L3NUOXlWL2s4ZzlqdXc4UGxaTXhrUk9IZlNGTGJONGVUM3pueHg4NkE9PRgAIAAoADCHlpjT+uaQAzitvtXjpjNArb7V46YzShxCbGNqWVVrbTBTVitreStobUlhSlRVSENKV3M9Wh8iHd52VWtkNkR3VnZmM1BYSGdMdkVYbEFPSERWNVU9ZRq5bywS6wEIKhLmAQocdGhGU2ZrZXhFTmpFdU1lQkNENGxndEtBLzBZPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2RnVYNVkyekRnSlVzL3QyeTJZcGU3MFZWbEkvYm44MXFnK1B3K1VSdllkZ1puWFV3NmJsUzNyLzRqcHpOV0wvQXdRTDZSZz09GAAgACgAMOnU6en45pADOIv3teOmM0CL97XjpjNKHGtjL09POHVGalZjdXpZR3djYkdIQkJiSFlSQT1aHiIcenpKZkphZ1JYZGNRQkV1TWtvK1FPc0tGVUJVPWWK0WgcEuwBCB4S5wEKHEFOMW0ydlNXbHJvWGIzWGt2MS8rbHJtSnd5OD0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNmUwREVzTDVOaHc1dnk1ZFd3TmcwRWowZ2d2aGVwckFBUk5WanJaa3pKYjdRZ2lIUmQyYjMvcG5CdllhOERUeXFZbzQ2U1E9PRgAIAAoADDUrOaJ4+GQAzj7pd2OpjNA+6XdjqYzShxwU0JBem5xb0RsM3B3cElLc3VvMXA1UTAveWc9Wh8iHbY5Rk83dkdQMVUxSERGMXpYMm9RVkR0elNMR0E9Zaa6Wn0S7AEINRLnAQocRUU3dHE3Y3JqUTNCZGVTVUV6ajlZYWl2RjVzPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2dTE3TGRjQ3ZibExBTVNCSnpUWjkvcVlNa2dBR1RnT0pZNkNPTnhIYkVjMEcvak54S1h3ZEtKTEZET1ZhUzdOV0x5ZThrZz09GAAgACgAMP+G2b2QnpEDOPu63MOkM0D7utzDpDNKHG5FdFJhaTFvVzdSSE5vdVRTeWdXNk56ZFE4az1aHyId/W9BbE1tOFVsQmNJbytIT1ZrR2RBa3VUZmlhUT1lw2FUsBLsAQhAEucBChwybDNjRmMwSnRCanZGVzJRakhpdTlSVkVSZXc9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZFSzRrQUtuMms4bVNXNjE0SFVVeGJBS0h4alNlTnNFMFg2dnY1WG9rUkJuaEV2L05US2U3VlR3eWVGL05QaXJpSjdNdGd3PT0YACAAKAAw2/qGxP3+kAM44Zag7akzQOGWoO2pM0ocMlRlSmF6Y3BpOVYxZUFudU02SW1wYTdzeUxZPVofIh36Y0JVMjlqZzNzTWVjYnJEZFVpNk5kSC9hM0s0PWV4kSqGEu0BCDkS6AEKHGZhSE1OL2prM0o5NkpINEl3U1NoaUc3S3VYVT0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNlhiR1c5cXJYUzlUMUFlbk5YYXJRb05iRTNzMCs2ZnpVWklwcU1BRXpUVzZSSk9RanRDbXU4aDVHby9mWXJ6cC82clAyRWc9PRgAIAAoADCUsIW3sMuRAzim6/nQszNApuv50LMzShxWRjdiVXYyZStCb1h6RXBMQXNKSG5KYUlhanc9WiAiHv+pQkdkbDlqMlFya3pXVWZ4MERsOXBjOXdRcWVNPWURB2yTEuwBCDoS5wEKHFpEeVFDYm9BQjlxMDRaYVY4MWF0b1cxR3FXZz0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNjdkRXR6bmU0SlhWck50cnBNTzNwVVhpN0ZtaFkwTzNLQzFlelRqVzMxSDVwY3RVT3ZMenRVZDQrc0FXazRIUVU4MUxVN0E9PRgAIAAoADCKrNulkJ6RAzjhtp3sqTNA4bad7KkzShw1N3R5dloydDczME5vRmZJTHJWMm92REQxY0U9Wh8iHf1iODZ5YUw4TjFsRWRYWitYNXZ1NlBqWkRLaE09ZQAAAAAS7AEINBLnAQocM0lmUjBiQjF4SWJmY0lxQWQvYzNobjU0S1FNPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2S3FJYTFETEQxRWpuZTdWUENOYjVtQVhDZXhGUzFEVisyMzAxSUloeWwvS2dJUmUxb3FUYmQwd3dXdUNPd016bmtmaWc4Zz09GAAgACgAMP+G2b2QnpEDOL6g3MOkM0C+oNzDpDNKHFdpN2FUaUhFbFF5U3NmMzBjTDA0bFk5SXpCTT1aHyId/G5Rd21CQ2luYVNWY0phNDdOblp0Rys4K1JQST1lw2FUsBLsAQg4EucBChxaVHpOOXc5aktkRUl6Mmc2TWdRa0hrSWpXS2c9EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZlMlUzUHMzNVVET3RjS2pHNERLWXNHNU1NWjFWcFFOR3o4OUJBbUJMQnAwT2dhWXlrdjRIKzJEdzRHZ0pRZHVNMkhldXlnPT0YACAAKAAwsoXls7DLkQM4+LX50LMzQPi1+dCzM0ocWEpPK1p6N2ErMWNLaEd1MTZ1bWttL2tWNXJVPVofIh3/U3ZraURVQXZobVJkR2tuT2hWelM0bGdIZmFrPWURB2yTEu0BCEgS6AEKHG5yL1plL1dxdm1RWlhlRDl4ZytycUFveUx5OD0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNmM1SGtDZFRrdSs2T1ZoV3V2ZC82UFhTUzhWZ1VGVFNybjhYZGRaR21BcldyQ3M2bkxhczNEb054dUx1ZW9iOGowc3VNMGc9PRgAIAAoADDy2IX45emRAzi176qXkTNAzfuow7czShxrTm0vVldYTmtkYlBTdDZOR1Y1cnFNNzNka1E9WiAiHv/aaXdEY09CV3NNVkF6dTB1QXI2aHNsYStQM3RRPWVZOoUsEuwBCEES5wEKHDRKdERSRlVObmZXL1VqWHAzbXlhNmx3OTBiQT0SZlo6QURxdEFaeXYyM0MycFhUVExnT2F1ZTZFVlFGNnRHZmJwVEo2QXl2WWs1Tm5pRExVaVNTbGxSNlM4RlhvSTZxY0ROM0FHRWI2emVBVjM0L3ZqQTNmZUswYXB4LzNmY0U0bXc9PRgAIAAoADCIr5P+1LuRAzjj0b3PsTNA49G9z7EzShxFVVFnVWFnS2VNRWM2NTJYbUx5cWtzc2tIUmc9Wh8iHf5zN3dxSVJISXhyaXFudzhyUVdmNlJwQnlVS0U9ZVCAcB0S7AEIRBLnAQocT0NVRVk2dFdtRm4zbXVsNDEyYjAzRytzZWZZPRJmWjpBRHF0QVp5djIzQzJwWFRUTGdPYXVlNkVWUUY2V25JQWRtNzU1QS9ETVNLMEMrZXYwd01ydDhjVkF5MXFMWGlLQWtrOEw2TmpSc3FmK2JLYzkrWHlQUzYxL2JNUXRqaVZOdz09GAAgACgAMNyoj/P9/JADOKrv1oujM0Cq79aLozNKHExYekRYS09UVnhjZ0dRWFA2L001WGtTbmhPRT1aHyIdO3RvTTdzb2JnNGRNVXJMdVczdzQ0ZjMzaElUOD1lz6S2PxLsAQhGEucBChxud1lTSDNuWUlsMHBURWZlcWw5Wm9xZjBQYU09EmZaOkFEcXRBWnl2MjNDMnBYVFRMZ09hdWU2RVZRRjZXSS9XMVdxaWtlZWU0V2lFMFJsMmpOR3pENVVIb2NwdTBjM3ZpREY2Q1BLWkVrWVRNMzluaUJLQkhtaHVZZ3M0bVNJNUZnPT0YACAAKAAwmJ65qN/okQM40d6FgYUzQNHehYGFM0ocbEFtMU5pdTRseU9uWXEzSFpESUJRY0ppNFZZPVofIh27MlBJeFVja3Qwb1hkQUtCdHp1WHJJdjcxZ2lzPWWFZ+0PMAE4AA==",
+   "version": 1
+}

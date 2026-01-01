@@ -1,0 +1,6 @@
+2025/12/31-23:11:10.888 bb8 Creating DB /home/aether/.config/google-chrome/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb since it was missing.
+2025/12/31-23:11:10.913 bb8 Reusing MANIFEST /home/aether/.config/google-chrome/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/31-23:11:45.284 bbc Level-0 table #5: started
+2025/12/31-23:11:45.291 bbc Level-0 table #5: 1946 bytes OK
+2025/12/31-23:11:45.298 bbc Delete type=0 #3
+2025/12/31-23:11:45.298 bbc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

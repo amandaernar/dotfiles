@@ -1,0 +1,9 @@
+2025/12/31-22:24:41.970 5 Reusing MANIFEST /home/aether/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/12/31-22:24:41.974 5 Recovering log #44
+2025/12/31-22:24:41.975 5 Reusing old log /home/aether/.config/google-chrome/Default/Local Storage/leveldb/000044.log 
+2025/12/31-22:24:53.426 5 Level-0 table #49: started
+2025/12/31-22:24:53.442 5 Level-0 table #49: 49236 bytes OK
+2025/12/31-22:24:53.452 5 Delete type=0 #44
+2025/12/31-23:22:24.427 7 Level-0 table #51: started
+2025/12/31-23:22:24.444 7 Level-0 table #51: 18186 bytes OK
+2025/12/31-23:22:24.454 7 Delete type=0 #48

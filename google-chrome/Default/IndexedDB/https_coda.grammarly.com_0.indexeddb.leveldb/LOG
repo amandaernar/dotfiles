@@ -1,0 +1,24 @@
+2025/12/31-17:59:50.686 d85 Reusing MANIFEST /home/aether/.config/google-chrome/Default/IndexedDB/https_coda.grammarly.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/31-17:59:50.686 d85 Recovering log #3
+2025/12/31-17:59:50.687 d85 Reusing old log /home/aether/.config/google-chrome/Default/IndexedDB/https_coda.grammarly.com_0.indexeddb.leveldb/000003.log 
+2025/12/31-18:26:25.164 d88 Level-0 table #5: started
+2025/12/31-18:26:25.192 d88 Level-0 table #5: 942080 bytes OK
+2025/12/31-18:26:25.206 d88 Delete type=0 #3
+2025/12/31-18:53:10.256 d85 Level-0 table #7: started
+2025/12/31-18:53:10.275 d85 Level-0 table #7: 927152 bytes OK
+2025/12/31-18:53:10.282 d85 Delete type=0 #4
+2025/12/31-18:53:26.031 d88 Compacting 1@1 + 1@2 files
+2025/12/31-18:53:26.057 d88 Generated table #8@1: 629 keys, 35845 bytes
+2025/12/31-18:53:26.057 d88 Compacted 1@1 + 1@2 files => 35845 bytes
+2025/12/31-18:53:26.064 d88 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/31-18:53:26.064 d88 Delete type=2 #5
+2025/12/31-18:53:26.064 d88 Delete type=2 #7
+2025/12/31-19:26:50.306 d8e Level-0 table #10: started
+2025/12/31-19:26:50.333 d8e Level-0 table #10: 1120072 bytes OK
+2025/12/31-19:26:50.344 d8e Delete type=0 #6
+2025/12/31-19:27:00.679 d88 Compacting 1@1 + 1@2 files
+2025/12/31-19:27:00.702 d88 Generated table #11@1: 844 keys, 59431 bytes
+2025/12/31-19:27:00.703 d88 Compacted 1@1 + 1@2 files => 59431 bytes
+2025/12/31-19:27:00.710 d88 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/31-19:27:00.711 d88 Delete type=2 #10
+2025/12/31-19:27:00.711 d88 Delete type=2 #8

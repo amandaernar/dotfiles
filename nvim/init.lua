@@ -69,6 +69,10 @@ require("lazy").setup({
   },
 
   {
+    "nvim-lua/plenary.nvim",
+  },
+
+  {
     "nvim-telescope/telescope.nvim",
     dependencies = { 'nvim-lua/plenary.nvim' },
     config = function()
@@ -85,20 +89,6 @@ require("lazy").setup({
     "calind/selenized.nvim"
   },
 
-  {
-    "nvim-treesitter/nvim-treesitter",
-    build = ":TSUpdate",
-    config = function ()
-      local configs = require("nvim-treesitter.configs")
-
-      configs.setup({
-        ensure_installed = { "c", "lua", "vim", "vimdoc", "rust", "go", "cpp", "javascript", "html" },
-        sync_install = false,
-        highlight = { enable = true },
-        indent = { enable = true },
-      })
-    end
-  }
 })
 
 vim.api.nvim_create_autocmd("VimEnter", {

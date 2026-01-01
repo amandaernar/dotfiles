@@ -1,9 +1,0 @@
-2025/12/31-22:24:41.962 bb8 Reusing MANIFEST /home/aether/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/12/31-22:24:41.963 bb8 Recovering log #3
-2025/12/31-22:24:41.964 bb8 Reusing old log /home/aether/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
-2025/12/31-23:05:02.253 bb8 Level-0 table #5: started
-2025/12/31-23:05:02.270 bb8 Level-0 table #5: 132318 bytes OK
-2025/12/31-23:05:02.277 bb8 Delete type=0 #3
-2025/12/31-23:14:04.183 bc2 Level-0 table #7: started
-2025/12/31-23:14:04.198 bc2 Level-0 table #7: 120670 bytes OK
-2025/12/31-23:14:04.204 bc2 Delete type=0 #4

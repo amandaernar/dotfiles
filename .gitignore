@@ -1,0 +1,15 @@
+google-chrome/
+spotify/
+*.lock
+*.log
+*.tmp
+*.temp
+.DS_Store
+.env
+node_modules/
+vendor/
+dist/
+build/
+target/
+bin/
+mimeapps.list

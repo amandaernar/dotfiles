@@ -7,46 +7,39 @@ Configuration files for my computaitonal environment.
 
 Arch Linux.
 
-Linux, particularly the Arch distribution, helps me adhere to "KISS" (Keep It Simple, Stupid).
-
-I built this operating system from the ground-up:
+I built this operating system from the ground-up, as I've:
 
 * Erased my computer's default operating system.
 * Installed Arch via USB.
 * Prepared and mounted computer disks.
-* Installed everything basically (Image viewer, file explorer, window manager, terminal...)
-* Wrote and maintained Bash scripts to customize my window manager, terminal, etc (which are in this repository).
+* Did my research and installed what I needed (an image viewer, a file explorer, a window manager, a terminal...)
+* Wrote and maintained Bash scripts to customize my environment.
 
-### Window manager
-[BSPWM](https://github.com/amandaernar/dotfiles/blob/main/bspwm/bspwmrc)
-* A *tiling* window manager.
+***
+Here is what I use.
 
-[Rofi](https://github.com/amandaernar/dotfiles/blob/main/rofi/config.rasi)
+### Window
+[BSPWM](https://github.com/amandaernar/dotfiles/blob/main/bspwm/bspwmrc), a tiling window manager.
 
-Link: [keybindings](https://github.com/amandaernar/dotfiles/blob/main/sxhkd/sxhkdrc).
+[Rofi](https://github.com/amandaernar/dotfiles/blob/main/rofi/config.rasi), an app launcher.
 
-Link: [compositor setup](https://github.com/amandaernar/dotfiles/blob/main/picom/picom.conf)
+[Sxhkd](https://github.com/amandaernar/dotfiles/blob/main/sxhkd/sxhkdrc), a daemon that executes certain commands when I press certain keys. 
+
+[Picom](https://github.com/amandaernar/dotfiles/blob/main/picom/picom.conf), a compositor that makes my desktop nicer.
 
 ### Terminal
-[Kitty](https://github.com/amandaernar/dotfiles/blob/main/kitty/kitty.conf)
+[Kitty](https://github.com/amandaernar/dotfiles/blob/main/kitty/kitty.conf).
 
 ### Text editor
-[Neovim](https://github.com/amandaernar/dotfiles/blob/main/nvim/init.lua)
-* Long story short, you don't use your computer mouse when using this text editor.
-* You have to learn a set of keyboard bindings to move your cursor and edit text.
-* I like using my keyboard. Without having to pick up the mouse, I speed up the coding process.
-
-Link: [on start-up](https://github.com/amandaernar/dotfiles/blob/main/nvim/lua/user/alpha.lua).
-
+[Neovim](https://github.com/amandaernar/dotfiles/blob/main/nvim/init.lua), my go-to text editor. long story short you don't use your mouse when writing code in any vim-based text editor. i find that it speeds up the coding process. 
 ### Document Viewer
-[Zathura](https://github.com/amandaernar/dotfiles/blob/main/zathura/zathurarc)
+[Zathura](https://github.com/amandaernar/dotfiles/blob/main/zathura/zathurarc), a PDF viewer that uses vim keybindings to traverse the file.
+
+Thunar, a file manager. Think of it like the *Finder* app in MacOS.
 
 ### Status bar
-[Polybar](https://github.com/amandaernar/dotfiles/tree/main/polybar/config.ini)
-
-Link: [scripts](https://github.com/amandaernar/dotfiles/tree/main/polybar/scripts).
+[Polybar](https://github.com/amandaernar/dotfiles/tree/main/polybar/config.ini), my desktop status bar.
 
 ### Audio
-Pulseaudio
-
+Pulseaudio.
 

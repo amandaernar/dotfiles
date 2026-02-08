@@ -6,6 +6,7 @@
 super + 0
 	kitty
 
+
 # launcher
 super + @space
 	rofi -show drun -no-default-config -config ~/.config/rofi/full_screen.rasi
@@ -16,6 +17,19 @@ super + r
 # make sxhkd reload its configuration files
 super + Escape
 	pkill -USR1 -x sxhkd
+
+# volume
+super + equal
+    wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%+ --limit 1.0
+
+super + minus
+    wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%-
+
+
+# mute
+super + p
+    wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle
+
 
 #
 # bspwm
@@ -61,6 +75,9 @@ super + ctrl + {m,x,y,z}
 super + {h,j,k,l}
   bspc node -f {west,south,north,east}
 
+super + {1-9}
+    bspc {desktop -f,node -d} '^{1-9}'
+
 #
 # preselect
 #
@@ -92,7 +109,7 @@ super + alt + shift + {h,j,k,l}
 	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
 
 # move a floating window
-super + {h,j,k,l}
+super + fn + {h,j,k,l}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
 super + e
@@ -100,3 +117,19 @@ super + e
 
 super + y 
 	flameshot gui
+
+super + d
+  bspc node -g sticky=on -g hidden=on
+
+super + shift + d
+  $HOME/.scripts/maximize.sh
+
+#
+# brightness
+#
+
+ctrl + shift + equal
+  brightnessctl set +10%
+
+ctrl + shift + minus
+  brightnessctl set 10%-

@@ -1,5 +1,8 @@
-vim.g.mapleader = '2'
-vim.g.maplocalleader = '2'
+vim.g.mapleader = ' '
+vim.g.maplocalleader = ' '
+vim.keymap.set('n', '<C-n>', ':NvimTreeToggle<CR>', { noremap = true, silent = true })
+vim.keymap.set('n', '<leader>p', ':PeekOpen<CR>', { desc = 'open markdown preview' })
+vim.keymap.set('n', '<leader>q', ':PeekClose<CR>', { desc = 'Close Markdown Preview' })
 
 vim.opt.number = true
 vim.opt.shiftwidth = 2
@@ -85,34 +88,49 @@ require("lazy").setup({
     end,
   },
 
+	{
+	  'EdenEast/nightfox.nvim',
+	  lazy = false,
+	  priority = 1000,
+	  config = function()
+	    require('nightfox').setup({
+	      options = {
+        transparent = true, 
+        styles = {
+        comments = "italic",
+        keywords = "bold",
+        types = "italic",
+      }
+    }
+	    })
+
+	    vim.cmd("colorscheme nordfox")
+
+	    vim.api.nvim_set_hl(0, "Normal", { bg = "NONE", ctermbg = "NONE" })
+	    vim.api.nvim_set_hl(0, "NormalFloat", { bg = "NONE", ctermbg = "NONE" })
+	  end,
+	},
+
   {
-    "catppuccin/nvim",
-    name = "catppuccin",
-    priority = 1000, 
+    "toppair/peek.nvim",
+    event = { "VeryLazy" },
+    build = "deno task --quiet build:fast",
     config = function()
-      require("catppuccin").setup({
-        flavour = "mocha",
-        transparent_background = false,
-        term_colors = true,
-        integrations = {
-          cmp = true,
-          gitsigns = true,
-          nvimtree = true,
-          treesitter = true,
-          notify = true,
-          mini = {
-            enabled = true,
-            indentscope_color = "",
-          },
-        },
+      local peek = require('peek')
+      
+      peek.setup({
+        app = 'browser',
+        filetype = { 'markdown' },
       })
 
-      vim.cmd.colorscheme("catppuccin")
+      vim.api.nvim_create_user_command("PeekOpen", require("peek").open, {})
+      vim.api.nvim_create_user_command("PeekClose", require("peek").close, {})
     end,
-  }
+  },
 
 })
 
+vim.g.peek_browser = 'brave'
 vim.api.nvim_create_autocmd("BufWipeout", {
   callback = function()
     local bufs = vim.fn.getbufinfo({ buflisted = true })
@@ -121,4 +139,3 @@ vim.api.nvim_create_autocmd("BufWipeout", {
     end
   end,
 })
-

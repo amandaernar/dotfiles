@@ -35,4 +35,4 @@ darkman run &
 
 xsetroot -cursor_name left_ptr &
 xrandr --output DP-0 --primary --output HDMI-0 --right-of DP-0
-feh --bg-fill ~/Downloads/wallpaper/villagegreen.jpg
+feh --bg-fill ~/Downloads/wallpaper/cloudblue.jpg

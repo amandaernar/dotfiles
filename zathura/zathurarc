@@ -1,12 +1,20 @@
-set default-bg "#1E1E2E"  
-set statusbar-bg "#313244" 
-set statusbar-fg "#CDD6F4" 
-set inputbar-bg "#313244" 
-set inputbar-fg "#CDD6F4" 
-set completion-bg "#313244" 
-set completion-fg "#CDD6F4" 
-set completion-highlight-bg "#45475A" 
-set completion-highlight-fg "#CDD6F4"
-set recolor true 
-set recolor-lightcolor "#1E1E2E"
-set recolor-darkcolor "#CDD6F4"
+set default-bg                  "#192330"  
+set default-fg                  "#cdcecf"  
+
+set statusbar-bg                "#233144"  
+set statusbar-fg                "#aeafb0"  
+
+set inputbar-bg                 "#192330"  
+set inputbar-fg                 "#9d79d3"  
+
+set completion-bg               "#233144"  
+set completion-fg               "#cdcecf"  
+set completion-highlight-bg     "#2e3c64"  
+set completion-highlight-fg     "#cdcecf"
+
+set recolor                     "true"
+set recolor-lightcolor          "#192330"  
+set recolor-darkcolor           "#cdcecf"  
+
+set highlight-color             "#2e3c64"
+set highlight-active-color      "#81a1c1"

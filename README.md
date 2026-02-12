@@ -1,22 +1,10 @@
-## Coding Setup
-
 Configuration files for my computaitonal environment.
 
+***
 
 ### Operating System
 
-Arch Linux.
-
-I built this operating system from the ground-up, as I've:
-
-* Erased my computer's default operating system.
-* Installed Arch via USB.
-* Prepared and mounted computer disks.
-* Did my research and installed what I needed (an image viewer, a file explorer, a window manager, a terminal...)
-* Wrote and maintained Bash scripts to customize my environment.
-
-***
-Here is what I use.
+Linux (Arch distro)
 
 ### Window
 [BSPWM](https://github.com/amandaernar/dotfiles/blob/main/bspwm/bspwmrc), a tiling window manager.
@@ -43,3 +31,5 @@ Thunar, a file manager. Think of it like the *Finder* app in MacOS.
 ### Audio
 Pulseaudio.
 
+### Productivity
+Calcurse, a TUI for todo lists and whatv.
